@@ -63,3 +63,13 @@ We also used SQL to prepare and model the data before analysis:
     - Fraud transactions by city.
     - Top merchants by fraud count.
     - Distribution of card types used in fraud cases.
+## Files in Google Drive  
+
+👉 [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1KNkjoZBn6XR-MEXEDOxIEJxjQq79EVXD)  
+
+Contents:  
+- **Power BI Dashboard** (`.pbix`) — Interactive fraud detection dashboard.  
+- **Presentation** (`.pptx` / `.pdf`) — Summary of project workflow, insights, and results.  
+- **README.md** — Project documentation.  
+
+---
